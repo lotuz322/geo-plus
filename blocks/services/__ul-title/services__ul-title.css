@@ -1,0 +1,10 @@
+.services__ul-title {
+  margin: 40px 0;
+  text-align: center;
+  font-size: 30px;
+  line-height: 1.26;
+  font-weight: 300;
+  background: linear-gradient(180deg, #9754E1 0%, #407FED 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

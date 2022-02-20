@@ -1,0 +1,6 @@
+.header__sub-info {
+  margin-top: 155px;
+  display: flex;
+  align-self: flex-end;
+  gap: 40px;
+}

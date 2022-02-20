@@ -1,0 +1,6 @@
+.header__burger {
+  width: 40px;
+  height: 40px;
+  background: no-repeat center / 40px 40px url(../../../images/header-burger.svg);
+  border: 0;
+}

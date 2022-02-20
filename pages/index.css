@@ -1,0 +1,55 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/section/section.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__containder/header__container.css);
+@import url(../blocks/header/__column/header__column.css);
+@import url(../blocks/header/__burger/header__burger.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__working-schedule/header__working-schedule.css);
+@import url(../blocks/header/__info/header__info.css);
+@import url(../blocks/header/__number/header__number.css);
+@import url(../blocks/header/__language/header__language.css);
+@import url(../blocks/header/__image/header__image.css);
+@import url(../blocks/header/__sub-info/header__sub-info.css);
+@import url(../blocks/header/__sub-info-item/header__sub-info-item.css);
+@import url(../blocks/header/__sub-info-text/header__sub-info-text.css);
+
+@import url(../blocks/about-me/about-me.css);
+@import url(../blocks/about-me/__title/about-me__title.css);
+@import url(../blocks/about-me/__subtitle/about-me__subtitle.css);
+@import url(../blocks/about-me/__list/about-me__list.css);
+@import url(../blocks/about-me/__ul-item/about-me__ul-item.css);
+@import url(../blocks/about-me/__ul-title/about-me__ul-title.css);
+@import url(../blocks/about-me/__ul-text/about-me__ul-text.css);
+@import url(../blocks/about-me/__advantages-work/about-me__advantages-work.css);
+@import url(../blocks/about-me/__advantages-work-text/about-me__advantages-work-text.css);
+@import url(../blocks/about-me/__advantages-work-title/about-me__advantages-work-title.css);
+
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__title/services__title.css);
+@import url(../blocks/services/__subtitle/services__subtitle.css);
+@import url(../blocks/services/__list/services__list.css);
+@import url(../blocks/services/__ul-item/services__ul-item.css);
+@import url(../blocks/services/__ul-title/services__ul-title.css);
+@import url(../blocks/services/__ul-text/services__ul-text.css);
+@import url(../blocks/services/__price-list-title/services__price-list-title.css);
+@import url(../blocks/services/__price-list/services__price-list.css);
+@import url(../blocks/services/__ul-button/services__ul-button.css);
+
+
+
+
+
+
+
+
+
+
+
+

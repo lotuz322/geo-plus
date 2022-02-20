@@ -1,0 +1,5 @@
+.header {
+  background: no-repeat center / cover url(../../images/header-backgound.svg);
+  min-height: 930px;
+  padding: 65px 100px 0 350px;
+}

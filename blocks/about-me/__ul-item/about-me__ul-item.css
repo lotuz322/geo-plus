@@ -1,0 +1,6 @@
+.about-me__ul-item {
+  border-radius: 20px;
+  box-shadow: 10px 7px 40px rgba(0, 0, 0, 0.06);
+  padding: 12px 30px 12px 30px;
+  box-sizing: border-box;
+}

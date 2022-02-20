@@ -1,0 +1,12 @@
+.header__sub-info-item {
+  display: flex;
+  gap: 15px;
+  border: none;
+  background: none;
+  max-width: 191px;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.15;
+  color: #4F4F4F;
+  padding: 0;
+}
