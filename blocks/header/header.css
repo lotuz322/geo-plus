@@ -1,5 +1,11 @@
 .header {
   background: no-repeat center / cover url(../../images/header-backgound.svg);
-  min-height: 930px;
+  height: 930px;
   padding: 65px 100px 0 350px;
+}
+
+@media screen and (max-width: 1799px){
+  .header {
+    padding-left: 100px;
+  }
 }

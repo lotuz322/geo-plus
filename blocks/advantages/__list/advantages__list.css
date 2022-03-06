@@ -1,0 +1,7 @@
+.advantages__list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  padding: 0;
+  gap: 55px;
+}

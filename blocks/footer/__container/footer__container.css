@@ -1,0 +1,8 @@
+.footer__container {
+  background: no-repeat center/cover  url(../../../images/footer-background.svg);
+  min-height: 211px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 200px;
+  padding: 10px 30px;
+}

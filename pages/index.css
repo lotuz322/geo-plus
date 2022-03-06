@@ -3,6 +3,8 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/section/section.css);
+@import url(../blocks/section/_size/section_size_L.css);
+@import url(../blocks/section/_size/section_size_M.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__containder/header__container.css);
@@ -27,9 +29,6 @@
 @import url(../blocks/about-me/__ul-item/about-me__ul-item.css);
 @import url(../blocks/about-me/__ul-title/about-me__ul-title.css);
 @import url(../blocks/about-me/__ul-text/about-me__ul-text.css);
-@import url(../blocks/about-me/__advantages-work/about-me__advantages-work.css);
-@import url(../blocks/about-me/__advantages-work-text/about-me__advantages-work-text.css);
-@import url(../blocks/about-me/__advantages-work-title/about-me__advantages-work-title.css);
 
 @import url(../blocks/services/services.css);
 @import url(../blocks/services/__title/services__title.css);
@@ -42,6 +41,30 @@
 @import url(../blocks/services/__price-list/services__price-list.css);
 @import url(../blocks/services/__ul-button/services__ul-button.css);
 
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__list/advantages__list.css);
+@import url(../blocks/advantages/__list-item/advantages__list-item.css);
+@import url(../blocks/advantages/__list-title/advantages__list-title.css);
+@import url(../blocks/advantages/__list-text/advantages__list-text.css);
+
+@import url(../blocks/info/info.css);
+@import url(../blocks/info/__title/info__title.css);
+@import url(../blocks/info/__text/info__text.css);
+@import url(../blocks/info/__list/info__list.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__number/footer__number.css);
+@import url(../blocks/footer/__button/footer__button.css);
+@import url(../blocks/footer/__address/footer__address.css);
+@import url(../blocks/footer/__email/footer__email.css);
+
+@import url(../blocks/iframe/iframe.css);
+
+@import url(../blocks/text-bold/text-bold.css);
+@import url(../blocks/text-gradient/text-gradient.css);
 
 
 

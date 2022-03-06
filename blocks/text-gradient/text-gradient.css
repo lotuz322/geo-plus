@@ -1,8 +1,4 @@
-.about-me__advantages-work {
-  margin: 35px 0 0;
-  font-weight: 300;
-  font-size: 25px;
-  line-height: 1.28;
+.text-gradient {
   background: linear-gradient(180deg, #9754E1 0%, #407FED 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
